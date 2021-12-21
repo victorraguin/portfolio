@@ -6,20 +6,14 @@ const ModalSixContent = () => {
       <figure>
         {/* Project Details Starts */}
         <figcaption>
-          <h3>Image Project</h3>
+          <h3>CRYPTOCONFIANCE.COM</h3>
           <div className="row open-sans-font">
             <div className="col-12 col-sm-6 mb-2">
               <i className="fa fa-file-text-o pr-2"></i>
-              <span className="project-label">Project </span>:{" "}
+              <span className="project-label">Projet </span>:{" "}
               <span className="ft-wt-600 uppercase">Conférences et formations</span>
             </div>
             {/* End .col */}
-
-            <div className="col-12 col-sm-6 mb-2">
-              <i className="fa fa-user-o pr-2"></i>
-              <span className="project-label">Projet </span>:{" "}
-              <span className="ft-wt-600 uppercase">personnel</span>
-            </div>
                         {/* End .col */}
             <div className="col-12 mb-2">
               <i className="fa fa-user-o pr-2"></i>
