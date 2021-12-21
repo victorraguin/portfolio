@@ -4,10 +4,10 @@ import Index from "../../components/about/index";
 
 const heroContent = {
   heroImage: "img/hero/victorraguin.jpg",
-  heroMobileImage: "img-mobile",
+  heroMobileImage: "victorraguin",
   heroTitleName: "Victor Raguin",
   heroDesignation: "Développeur Web",
-  heroDescriptions: `Bonjour, jeune développeur Fullstack JavaScript avec une préférence pour le front-end.  J'aime créer et partager ce que je réalise, c'est pourquoi vouss pourrez retrouver sur ce portfolio mes différentes créations avec un description du travail réalisé. Bonne visite !`,
+  heroDescriptions: `Bonjour, jeune développeur Fullstack JavaScript avec une petite préférence pour le front-end !  J'aime créer mais aussi partager mes connaissances et ce que je réalise, c'est pourquoi vouss pourrez retrouver sur ce portfolio mes différentes créations avec une courte description du travail réalisé. Bonne visite !`,
   heroBtn: "Mon profil",
 };
 
@@ -33,7 +33,7 @@ const Hero = () => {
             <img
               src={`img/hero/${heroContent.heroMobileImage}.jpg`}
               className="img-fluid main-img-mobile d-sm-block d-lg-none"
-              alt="hero man"
+              alt="Victor Raguin"
             />
             <h1 className="poppins-font">
               {heroContent.heroTitleName}

@@ -23,9 +23,9 @@ const index = () => {
 
               <div className="col-12 d-block d-sm-none">
                 <img
-                  src="img/hero/img-mobile.jpg"
+                  src="img/hero/victorraguin.jpg"
                   className="img-fluid main-img-mobile"
-                  alt="about avatar"
+                  alt="about Raguin Victor"
                 />
               </div>
               {/* image for mobile menu */}
@@ -36,7 +36,7 @@ const index = () => {
               {/* End personal info */}
 
               <div className="col-12 mt-1">
-                <a className="button" href="img/CV Raguin Victor.pdf" download>
+                <a className="button" href="img/Raguin Victor.pdf" download>
                   <span className="button-text">Télécharger mon CV</span>
                   <span className="button-icon fa fa-download"></span>
                 </a>
