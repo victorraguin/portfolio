@@ -108,7 +108,7 @@ const HomeDark = () => {
                     N'hésitez pas !
                   </h3>
                   <p className="open-sans-font mb-4">
-                    Je suis ouvert à toutes discussions concernant des nouveaux projets, des idées ou à des opportunitées d'emploi.
+                    Je suis ouvert à toutes discussions concernant des nouveaux projets, des idées ou à des opportunités d'emploi.
                   </p>
                   <Address />
                   {/* End Address */}
