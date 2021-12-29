@@ -3,8 +3,8 @@ import React from "react";
 const achievementsContent = [
   { title: "6", subTitle1: "projets web", subTitle2: "solo" },
   { title: "2", subTitle1: "projets web", subTitle2: "à venir" },
-  { title: "10", subTitle1: "conférences", subTitle2: "réalisées" },
-  { title: "2", subTitle1: "projets web sur", subTitle2: "les CryptosActifs" },
+  { title: "10", subTitle1: "conférences", subTitle2: "données" },
+  { title: "2", subTitle1: "applications", subTitle2: "crypto" },
 ];
 
 const Achievements = () => {
