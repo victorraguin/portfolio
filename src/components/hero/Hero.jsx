@@ -7,7 +7,7 @@ const heroContent = {
   heroMobileImage: "victorraguin",
   heroTitleName: "Victor Raguin",
   heroDesignation: "Développeur Web",
-  heroDescriptions: `Bonjour, jeune développeur Fullstack JavaScript avec une petite préférence pour le front-end !  J'aime créer mais aussi partager mes connaissances et ce que je réalise, c'est pourquoi vous pourrez retrouver sur ce portfolio mes différentes créations avec une courte description du travail réalisé. Bonne visite !`,
+  heroDescriptions: `Bonjour ! Développeur Fullstack JavaScript avec une spécialisation en front-end (ReactJS 💖). J'aime créer mais aussi partager mes connaissances et ce que je réalise, c'est pourquoi vous pourrez retrouver sur ce portfolio mes différentes créations avec une description du travail réalisé. Bonne visite !`,
   heroBtn: "Mon profil",
 };
 
