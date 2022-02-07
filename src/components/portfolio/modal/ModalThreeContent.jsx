@@ -37,7 +37,7 @@ const ModalThreeContent = () => {
               <span className="project-label">Voir (en construction) </span>:{" "}
               <span className="ft-wt-600 uppercase">
                 <a
-                  href="https://priceless-carson-22ea80.netlify.app/"
+                  href="https://jdanse-association.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
